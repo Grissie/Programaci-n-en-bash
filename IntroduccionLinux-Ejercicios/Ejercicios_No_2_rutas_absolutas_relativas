@@ -1,0 +1,132 @@
+Script iniciado (dom 19 jun 2022 13:07:43 CDT
+)]777;notify;Command completed;exit]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[?1034h[gris_gs@localhost ~]$ 
+]777;notify;Command completed;exit]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #Crear eñl[Kl[K[Kl arbol de la imeg[K[Kagen
+]777;notify;Command completed;#Crear el arbol de la imagen]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ mkdir docs
+]777;notify;Command completed;mkdir docs]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ mkdir -p plamn[K[Kn_becarios/2015
+]777;notify;Command completed;mkdir -p plan_becarios/2015]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ mkdir -p plan_becarios/2015[K[K[K[K2014/enero/
+]777;notify;Command completed;mkdir -p plan_becarios/2014/enero/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ mkdir -p plan_becarios/2014/enero/[K[K[K[K[K[Kmarzo([K/
+]777;notify;Command completed;mkdir -p plan_becarios/2014/marzo/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ tpuch[K[K[K[Kouch plan_becarios/2014/marzo/resumen
+]777;notify;Command completed;touch plan_becarios/2014/marzo/resumen]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ touch plan_becarios/2014/marzo/resumen[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K4/enero/examen
+]777;notify;Command completed;touch plan_becarios/2014/enero/examen]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ touch plan_becarios/2014/enero/examen[K[K[K[K[K[Ktarea
+]777;notify;Command completed;touch plan_becarios/2014/enero/tarea]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ tree 
+bash: tree: no se encontró la orden...
+]777;notify;Command completed;tree ]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;tree ]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls
+[0m[38;5;27mDescargas[0m                                  [38;5;27mEscritorio[0m         [38;5;27mplan_becarios[0m
+[38;5;27mdocs[0m                                       [38;5;27mImágenes[0m           [38;5;27mPlantillas[0m
+[38;5;27mDocumentos[0m                                 [38;5;27mIntroduccionLinux[0m  [38;5;27mPúblico[0m
+Ejercicios_No_2_rutas_absolutas_relativas  [38;5;27mMúsica[0m             [38;5;27mVídeos[0m
+]777;notify;Command completed;ls]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls docs
+]777;notify;Command completed;ls docs]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls plan_becarios/
+[0m[38;5;27m2014[0m  [38;5;27m2015[0m
+]777;notify;Command completed;ls plan_becarios/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls plan_becarios/2014/enero/
+examen  tarea
+]777;notify;Command completed;ls plan_becarios/2014/enero/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls plan_becarios/2014/enero/[K[K[K[K[K[Kmarzo/
+resumen
+]777;notify;Command completed;ls plan_becarios/2014/marzo/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls plan_becarios/2014/marzo/[K[K[K[K[K[K[K[K4[K5
+]777;notify;Command completed;ls plan_becarios/2015]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;ls plan_becarios/2015]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #Utilizamnd[K[K[Kndo rutas relativas
+]777;notify;Command completed;#Utilizando rutas relativas]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ [K[gris_gs@localhost ~]$ #Mover eñ archiv[K[K[K[K[K[K[K[Kl archivo tarea añ[Kl directorio 2015 y renombrarlño[K[Ko tarea_nueva
+]777;notify;Command completed;#Mover el archivo tarea al directorio 2015 y renombrarlo tarea_nueva]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ mv [K[K[Kmv plan_becarios/2014/enero/tarea pls[Kan_becarios/2015/tarea_nueva
+]777;notify;Command completed;mv plan_becarios/2014/enero/tarea plan_becarios/2015/tarea_nueva]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls plan_becarios/2014/enero/
+examen
+]777;notify;Command completed;ls plan_becarios/2014/enero/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls plan_becarios/2014/enero/[K[K[K[K[K[K[K[K5/
+tarea_nueva
+]777;notify;Command completed;ls plan_becarios/2015/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;ls plan_becarios/2015/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #cOP[K[K[KcOPIAR A[K[K[K[K[K[K[K[KCopiar archivo examen hacia el dit[Kr docs t[Kco[K[KC[Kcon el nombre por[K[Kractica
+]777;notify;Command completed;#Copiar archivo examen hacia el dir docs con el nombre practica]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ cp plan_becarios/2014/enero/examen plan_becarios/[K[K[K[K[K[K[K[K[K[K[K[K[K[Kdocs/practica
+]777;notify;Command completed;cp plan_becarios/2014/enero/examen docs/practica]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;cp plan_becarios/2014/enero/examen docs/practica]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls docs/
+practica
+]777;notify;Command completed;ls docs/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls docs/[K[K[K[K[Kplan_becarios/10[K[K2014/enero/
+examen
+]777;notify;Command completed;ls plan_becarios/2014/enero/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #Cambiae a[K[K[Kr al dic[Kr enero
+]777;notify;Command completed;#Cambiar al dir enero]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ cd plan_becarios/1024[K[K[K[K2014/enero/
+]777;notify;Command completed;cd plan_becarios/2014/enero/]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ pwd
+/home/gris_gs/plan_becarios/2014/enero
+]777;notify;Command completed;pwd]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ 
+]777;notify;Command completed;pwd]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ #Listado largo del dir marzo
+]777;notify;Command completed;#Listado largo del dir marzo]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ ls -l ./../marzo/
+total 0
+-rw-rw-r--. 1 gris_gs gris_gs 0 jun 19 13:10 resumen
+]777;notify;Command completed;ls -l ./../marzo/]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ 
+]777;notify;Command completed;ls -l ./../marzo/]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ #Copiar tarea_nueva y examen hacia el dir docs
+]777;notify;Command completed;#Copiar tarea_nueva y examen hacia el dir docs]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ cp[K[Kcp examen ./../../2015/tarea_nueva ./../../do[K[K../docs/
+]777;notify;Command completed;cp examen ./../../2015/tarea_nueva ./../../../docs/]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ ls ./../../../docs/
+examen  practica  tarea_nueva
+]777;notify;Command completed;ls ./../../../docs/]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ 
+]777;notify;Command completed;ls ./../../../docs/]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ $+[K[K#Listado largo y recusri[K[K[Krsivo del dir 2014
+]777;notify;Command completed;#Listado largo y recursivo del dir 2014]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ ls -lR ./../
+./../:
+total 0
+drwxrwxr-x. 2 gris_gs gris_gs 20 jun 19 13:28 [0m[38;5;27menero[0m
+drwxrwxr-x. 2 gris_gs gris_gs 21 jun 19 13:10 [38;5;27mmarzo[0m
+
+./../enero:
+total 0
+-rw-rw-r--. 1 gris_gs gris_gs 0 jun 19 13:10 examen
+
+./../marzo:
+total 0
+-rw-rw-r--. 1 gris_gs gris_gs 0 jun 19 13:10 resumen
+]777;notify;Command completed;ls -lR ./../]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ 
+]777;notify;Command completed;ls -lR ./../]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ #Listar en formato largo ()n)o) )c)o)n)t)e)n)i)d)o)[C del directorio docs[C[1@ [1@l[1@a[C[1@ [1@i[1@n[1@f[1@o[1@r[1@m[1@a[1@c[1@i[1@o[1@n[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]777;notify;Command completed;#Listar en formato largo la informacion (no contenido) del directorio docs]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ ls -ld ./../../../docs/
+drwxrwxr-x. 2 gris_gs gris_gs 55 jun 19 13:43 [0m[38;5;27m./../../../docs/[0m
+]777;notify;Command completed;ls -ld ./../../../docs/]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ #C++[K[K[K[K
+]777;notify;Command completed;ls -ld ./../../../docs/]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ #cA,BIAR[K[K[K[K[K[K[K[K#Cambiar dir a 2015
+]777;notify;Command completed;#Cambiar dir a 2015]0;gris_gs@localhost:~/plan_becarios/2014/enero]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2014/enero[gris_gs@localhost enero]$ cd .//[K../1[K2015[K[K[K[K[K/../201
+2014/ 2015/ 
+[gris_gs@localhost enero]$ cd ./../../2015
+]777;notify;Command completed;cd ./../../2015]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ pwd
+/home/gris_gs/plan_becarios/2015
+]777;notify;Command completed;pwd]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ #[K
+]777;notify;Command completed;pwd]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ #Borrar archivop [K [K[K examen
+]777;notify;Command completed;#Borrar archivo examen]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ rm .//[K../../2014[K[K[K[K[K[K[K2014/enero/examen [K
+]777;notify;Command completed;rm ./../2014/enero/examen]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ rm ./../2014/enero/examen[1P ./../2014/enero/examen[1P ./../2014/enero/examenl ./../2014/enero/examens ./../2014/enero/examen[C ./../2014/enero/examen
+ls: no se puede acceder a ./../2014/enero/examen: No existe el fichero o el directorio
+]777;notify;Command completed;ls  ./../2014/enero/examen]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ 
+]777;notify;Command completed;ls  ./../2014/enero/examen]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ #
+]777;notify;Command completed;#]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ #Rutas absolutas
+]777;notify;Command completed;#Rutas absolutas]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ #ELimi[K[K[K[Kliminar dir enero
+]777;notify;Command completed;#Eliminar dir enero]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ rm -r pla[K[K[K[K[K[K[K /home/gris_gs/plan_becarios/2014/enero/d /home/gris_gs/plan_becarios/2014/enero/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci /home/gris_gs/plan_becarios/2014/enero/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr /home/gris_gs/plan_becarios/2014/enero/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]777;notify;Command completed;rmdir /home/gris_gs/plan_becarios/2014/enero/]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ 
+]777;notify;Command completed;rmdir /home/gris_gs/plan_becarios/2014/enero/]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ #cA,[K[K[Kc[KCambiar al dire pl[K[K[K[K plan_becarios
+]777;notify;Command completed;#Cambiar al dir plan_becarios]0;gris_gs@localhost:~/plan_becarios/2015]7;file://localhost.localdomain/home/gris_gs/plan_becarios/2015[gris_gs@localhost 2015]$ cd /home/h[Kgris_gs/plan_becarios/
+]777;notify;Command completed;cd /home/gris_gs/plan_becarios/]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ 
+]777;notify;Command completed;cd /home/gris_gs/plan_becarios/]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ #COpíar[K[K[K[K[Kopiar dir recursivo de marzo a dir 1[K2015
+]777;notify;Command completed;#Copiar dir recursivo de marzo a dir 2015]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ cp -r /home/gris_gs/plan_becarios/201
+2014/ 2015/ 
+[gris_gs@localhost plan_becarios]$ cp -r /home/gris_gs/plan_becarios/2014/marzo/ /home/gris_gs/docs/[K[K[K[K[Kplan_becarioss/2015
+]777;notify;Command completed;cp -r /home/gris_gs/plan_becarios/2014/marzo/ /home/gris_gs/plan_becarios/2015]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ #[K
+]777;notify;Command completed;cp -r /home/gris_gs/plan_becarios/2014/marzo/ /home/gris_gs/plan_becarios/2015]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ #Eliminar r[K[K[K[Kar recursivo dir 2014
+]777;notify;Command completed;#Eliminar recursivo dir 2014]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ rm -r /home/gris_gs/plan_becarios/2011[K4
+]777;notify;Command completed;rm -r /home/gris_gs/plan_becarios/2014]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ 
+]777;notify;Command completed;rm -r /home/gris_gs/plan_becarios/2014]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ #ELimar[K[K[K[K[Kliminar archivos examen y practica
+]777;notify;Command completed;#Eliminar archivos examen y practica]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ rm /home/gris_gs/docs/examen /home/gris_gs/docs/practica 
+]777;notify;Command completed;rm /home/gris_gs/docs/examen /home/gris_gs/docs/practica ]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ 
+]777;notify;Command completed;rm /home/gris_gs/docs/examen /home/gris_gs/docs/practica ]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ #Finalmente lo[Kas carpetas quedan
+]777;notify;Command completed;#Finalmente las carpetas quedan]0;gris_gs@localhost:~/plan_becarios]7;file://localhost.localdomain/home/gris_gs/plan_becarios[gris_gs@localhost plan_becarios]$ ls doc[K[K[K[K -lR doc[K[K[K[K[K[K[K[K[K[Kcd /home/gris_gs/
+]777;notify;Command completed;cd /home/gris_gs/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;cd /home/gris_gs/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ñ[Kls -ld [K[KR docs/
+docs/:
+total 0
+-rw-rw-r--. 1 gris_gs gris_gs 0 jun 19 13:43 tarea_nueva
+]777;notify;Command completed;ls -lR docs/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ls -lR docs/[K[K[K[K[Kplan_becarios/
+plan_becarios/:
+total 0
+drwxrwxr-x. 3 gris_gs gris_gs 38 jun 19 14:17 [0m[38;5;27m2015[0m
+
+plan_becarios/2015:
+total 0
+drwxrwxr-x. 2 gris_gs gris_gs 21 jun 19 14:17 [38;5;27mmarzo[0m
+-rw-rw-r--. 1 gris_gs gris_gs  0 jun 19 13:10 tarea_nueva
+
+plan_becarios/2015/marzo:
+total 0
+-rw-rw-r--. 1 gris_gs gris_gs 0 jun 19 14:17 resumen
+]777;notify;Command completed;ls -lR plan_becarios/]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ exit
+exit
+
+Script terminado (dom 19 jun 2022 14:20:43 CDT
+)

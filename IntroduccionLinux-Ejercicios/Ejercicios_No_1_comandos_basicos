@@ -1,0 +1,130 @@
+Script iniciado (dom 19 jun 2022 12:54:11 CDT
+)]777;notify;Command completed;exit]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[?1034h[gris_gs@localhost ~]$ #Login asignado en el servidor linux
+]777;notify;Command completed;#Login asignado en el servidor linux]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ logname
+gris_gs
+]777;notify;Command completed;logname]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #Id de usuario
+]777;notify;Command completed;#Id de usuario]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ id gris_gs
+uid=1000(gris_gs) gid=1000(gris_gs) grupos=1000(gris_gs),10(wheel)
+]777;notify;Command completed;id gris_gs]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;id gris_gs]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #Id grupo
+]777;notify;Command completed;#Id grupo]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ig[Kd gris_gs
+uid=1000(gris_gs) gid=1000(gris_gs) grupos=1000(gris_gs),10(wheel)
+]777;notify;Command completed;id gris_gs]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;id gris_gs]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #Id de usuario y I[Kid grupo de rrot[K[K[Koot
+]777;notify;Command completed;#Id de usuario y id grupo de root]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ id root
+uid=0(root) gid=0(root) grupos=0(root)
+]777;notify;Command completed;id root]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;id root]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ ##[KNombre del dispositivo asociado a la terminal
+]777;notify;Command completed;#Nombre del dispositivo asociado a la terminal]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ tty
+/dev/pts/1
+]777;notify;Command completed;tty]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #Imr[Kmpir[K[K[K[Kprimir hola mundo
+]777;notify;Command completed;#Imprimir hola mundo]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ echi [K[Ko ""H"o"l"a" "m"u"n"d"o"[C
+Hola mundo
+]777;notify;Command completed;echo "Hola mundo"]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;echo "Hola mundo"]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #mENM[K[K[K[KMensaje multilinea
+]777;notify;Command completed;#Mensaje multilinea]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ echo -e #[K""E"s"t"o" "e"s" "u"n" "m"e"n"s"a"j"e" "m"u"l"t"i"l"í"n"e"a"." "\"n"A"[1P"p"O"[1P"[1P"P"o"d"e"m"o"s" "o"b"s"e"r"v" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca""r" "q"u"e" "s"o"n" "3" "l"í"n"e"a"s"." "\"n"P"o"r" "c"i"e"r"t"o"," "s"u"e"r"t"e" "e"n" "e"l" "e"j"e"r"c"i"c"i"o"."[C
+Esto es un mensaje multilínea. 
+Podemos observar que son 3 líneas. 
+Por cierto, suerte en el ejercicio.
+]777;notify;Command completed;echo -e "Esto es un mensaje multilínea. \nPodemos observar que son 3 líneas. \nPor cierto, suerte en el ejercicio."]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;echo -e "Esto es un mensaje multilínea. \nPodemos observar que son 3 líneas. \nPor cierto, suerte en el ejercicio."]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #f[KFecha y hora de hoy
+]777;notify;Command completed;#Fecha y hora de hoy]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ date
+dom jun 19 13:01:08 CDT 2022
+]777;notify;Command completed;date]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;date]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #i[KImprimir fecha con formato especfi[K[Kifíco
+]777;notify;Command completed;#Imprimir fecha con formato especifíco]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ date +""L"a" "f"e"c"h"a" "d"e" "h"o"y" "e"s" "[C[1P[1P[1@ [C[1@+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C% "[1@ [Cd "- "% ", "[1P "m "- "% "y "[C "% "H ": "% "M ": "% "S "[C[1P"[C
+La fecha de hoy es 19-06-22 13:02:33
+]777;notify;Command completed;date "+La fecha de hoy es %d-%m-%y %H:%M:%S"]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;date "+La fecha de hoy es %d-%m-%y %H:%M:%S"]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #Dia de la semana en que naci
+]777;notify;Command completed;#Dia de la semana en que naci]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ cal 24 03 1995
+    marzo de 1995   
+do lu ma mi ju vi sá
+          1  2  3  4
+ 5  6  7  8  9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 [7m24[27m 25
+26 27 28 29 30 31
+
+]777;notify;Command completed;cal 24 03 1995]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ 
+]777;notify;Command completed;cal 24 03 1995]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #c[KCalendario de dicim[Kembre
+]777;notify;Command completed;#Calendario de diciembre]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ cal 12
+                                12                                
+
+        enero                 febrero                 marzo       
+do lu ma mi ju vi sá   do lu ma mi ju vi sá   do lu ma mi ju vi sá
+                1  2       1  2  3  4  5  6          1  2  3  4  5
+ 3  4  5  6  7  8  9    7  8  9 10 11 12 13    6  7  8  9 10 11 12
+10 11 12 13 14 15 16   14 15 16 17 18 19 20   13 14 15 16 17 18 19
+17 18 19 20 21 22 23   21 22 23 24 25 26 27   20 21 22 23 24 25 26
+24 25 26 27 28 29 30   28 29                  27 28 29 30 31
+31
+        abril                  mayo                   junio       
+do lu ma mi ju vi sá   do lu ma mi ju vi sá   do lu ma mi ju vi sá
+                1  2    1  2  3  4  5  6  7             1  2  3  4
+ 3  4  5  6  7  8  9    8  9 10 11 12 13 14    5  6  7  8  9 10 11
+10 11 12 13 14 15 16   15 16 17 18 19 20 21   12 13 14 15 16 17 18
+17 18 19 20 21 22 23   22 23 24 25 26 27 28   19 20 21 22 23 24 25
+24 25 26 27 28 29 30   29 30 31               26 27 28 29 30
+
+        julio                 agosto               septiembre     
+do lu ma mi ju vi sá   do lu ma mi ju vi sá   do lu ma mi ju vi sá
+                1  2       1  2  3  4  5  6                1  2  3
+ 3  4  5  6  7  8  9    7  8  9 10 11 12 13    4  5  6  7  8  9 10
+10 11 12 13 14 15 16   14 15 16 17 18 19 20   11 12 13 14 15 16 17
+17 18 19 20 21 22 23   21 22 23 24 25 26 27   18 19 20 21 22 23 24
+24 25 26 27 28 29 30   28 29 30 31            25 26 27 28 29 30
+31
+       octubre               noviembre              diciembre     
+do lu ma mi ju vi sá   do lu ma mi ju vi sá   do lu ma mi ju vi sá
+                   1          1  2  3  4  5                1  2  3
+ 2  3  4  5  6  7  8    6  7  8  9 10 11 12    4  5  6  7  8  9 10
+ 9 10 11 12 13 14 15   13 14 15 16 17 18 19   11 12 13 14 15 16 17
+16 17 18 19 20 21 22   20 21 22 23 24 25 26   18 19 20 21 22 23 24
+23 24 25 26 27 28 29   27 28 29 30            25 26 27 28 29 30 31
+30 31
+
+]777;notify;Command completed;cal 12]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ #O[KImprime calendario de 1989
+]777;notify;Command completed;#Imprime calendario de 1989]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ cal 1989
+                               1989                               
+
+        enero                 febrero                 marzo       
+do lu ma mi ju vi sá   do lu ma mi ju vi sá   do lu ma mi ju vi sá
+ 1  2  3  4  5  6  7             1  2  3  4             1  2  3  4
+ 8  9 10 11 12 13 14    5  6  7  8  9 10 11    5  6  7  8  9 10 11
+15 16 17 18 19 20 21   12 13 14 15 16 17 18   12 13 14 15 16 17 18
+22 23 24 25 26 27 28   19 20 21 22 23 24 25   19 20 21 22 23 24 25
+29 30 31               26 27 28               26 27 28 29 30 31
+
+        abril                  mayo                   junio       
+do lu ma mi ju vi sá   do lu ma mi ju vi sá   do lu ma mi ju vi sá
+                   1       1  2  3  4  5  6                1  2  3
+ 2  3  4  5  6  7  8    7  8  9 10 11 12 13    4  5  6  7  8  9 10
+ 9 10 11 12 13 14 15   14 15 16 17 18 19 20   11 12 13 14 15 16 17
+16 17 18 19 20 21 22   21 22 23 24 25 26 27   18 19 20 21 22 23 24
+23 24 25 26 27 28 29   28 29 30 31            25 26 27 28 29 30
+30
+        julio                 agosto               septiembre     
+do lu ma mi ju vi sá   do lu ma mi ju vi sá   do lu ma mi ju vi sá
+                   1          1  2  3  4  5                   1  2
+ 2  3  4  5  6  7  8    6  7  8  9 10 11 12    3  4  5  6  7  8  9
+ 9 10 11 12 13 14 15   13 14 15 16 17 18 19   10 11 12 13 14 15 16
+16 17 18 19 20 21 22   20 21 22 23 24 25 26   17 18 19 20 21 22 23
+23 24 25 26 27 28 29   27 28 29 30 31         24 25 26 27 28 29 30
+30 31
+       octubre               noviembre              diciembre     
+do lu ma mi ju vi sá   do lu ma mi ju vi sá   do lu ma mi ju vi sá
+ 1  2  3  4  5  6  7             1  2  3  4                   1  2
+ 8  9 10 11 12 13 14    5  6  7  8  9 10 11    3  4  5  6  7  8  9
+15 16 17 18 19 20 21   12 13 14 15 16 17 18   10 11 12 13 14 15 16
+22 23 24 25 26 27 28   19 20 21 22 23 24 25   17 18 19 20 21 22 23
+29 30 31               26 27 28 29 30         24 25 26 27 28 29 30
+                                              31
+
+]777;notify;Command completed;cal 1989]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ I[K#Imprimir nombre hos[K[K[Kdel host
+]777;notify;Command completed;#Imprimir nombre del host]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ hostnamer[K
+localhost.localdomain
+]777;notify;Command completed;hostname]0;gris_gs@localhost:~]7;file://localhost.localdomain/home/gris_gs[gris_gs@localhost ~]$ exit
+exit
+
+Script terminado (dom 19 jun 2022 13:04:32 CDT
+)

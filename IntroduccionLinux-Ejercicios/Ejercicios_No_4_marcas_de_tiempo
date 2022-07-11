@@ -1,0 +1,109 @@
+Script iniciado (lun 11 jul 2022 00:02:17 CDT
+)]777;notify;Command completed;exit]0;gris_gs@localhost:~/IntroduccionLinux]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux[?1034h[gris_gs@localhost IntroduccionLinux]$ 
+]777;notify;Command completed;exit]0;gris_gs@localhost:~/IntroduccionLinux]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux[gris_gs@localhost IntroduccionLinux]$ #crear dir 
+]777;notify;Command completed;#crear dir ]0;gris_gs@localhost:~/IntroduccionLinux]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux[gris_gs@localhost IntroduccionLinux]$ mkdir t[Ktimes
+]777;notify;Command completed;mkdir times]0;gris_gs@localhost:~/IntroduccionLinux]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux[gris_gs@localhost IntroduccionLinux]$ #acce[K[K[K[K[K
+]777;notify;Command completed;mkdir times]0;gris_gs@localhost:~/IntroduccionLinux]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta abs oluta[K[A[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absolluta[K[A[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo directorio con ruta absoluta[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+]777;notify;Command completed;mkdir times]0;gris_gs@localhost:~/IntroduccionLinux]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux[gris_gs@localhost IntroduccionLinux]$ #acceder al nuevo dir con ruta absoluta
+]777;notify;Command completed;#acceder al nuevo dir con ruta absoluta]0;gris_gs@localhost:~/IntroduccionLinux]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux[gris_gs@localhost IntroduccionLinux]$ cd /home/gris_gs/D[KEscritorio/I[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kome/gris_gs/IntroduccionLinux/times/
+]777;notify;Command completed;cd /home/gris_gs/IntroduccionLinux/times/]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;cd /home/gris_gs/IntroduccionLinux/times/]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #crear archivo
+]777;notify;Command completed;#crear archivo]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ [K[gris_gs@localhost times]$ tpuch [K[K[K[K[Kouch time
+]777;notify;Command completed;touch time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;touch time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #copiar archivo preservando marcas de tiempo
+]777;notify;Command completed;#copiar archivo preservando marcas de tiempo]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ cp ti[K[K[K -p time ./../claves
+]777;notify;Command completed;cp -p time ./../claves]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;cp -p time ./../claves]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #verificar marcas de tiempo de ambos archivos
+]777;notify;Command completed;#verificar marcas de tiempo de ambos archivos]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ ls time
+time
+]777;notify;Command completed;ls time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ stat time
+  Fichero: «time»
+  Tamaño: 0         	Bloques: 0          Bloque E/S: 4096   fichero regular vacío
+Dispositivo: fd00h/64768d	Nodo-i: 33782285    Enlaces: 1
+Acceso: (0664/-rw-rw-r--)  Uid: ( 1000/ gris_gs)   Gid: ( 1000/ gris_gs)
+Contexto: unconfined_u:object_r:user_home_t:s0
+      Acceso: 2022-07-11 00:06:08.905076217 -0500
+Modificación: 2022-07-11 00:05:13.256073564 -0500
+      Cambio: 2022-07-11 00:05:13.256073564 -0500
+    Creación: -
+]777;notify;Command completed;stat time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;stat time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ stat ./../claves 
+  Fichero: «./../claves»
+  Tamaño: 0         	Bloques: 0          Bloque E/S: 4096   fichero regular vacío
+Dispositivo: fd00h/64768d	Nodo-i: 3393624     Enlaces: 1
+Acceso: (0664/-rw-rw-r--)  Uid: ( 1000/ gris_gs)   Gid: ( 1000/ gris_gs)
+Contexto: unconfined_u:object_r:user_home_t:s0
+      Acceso: 2022-07-11 00:05:13.256073564 -0500
+Modificación: 2022-07-11 00:05:13.256073564 -0500
+      Cambio: 2022-07-11 00:06:08.906076217 -0500
+    Creación: -
+]777;notify;Command completed;stat ./../claves ]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #+[K[K
+]777;notify;Command completed;stat ./../claves ]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #explicacion de la diferencia de los 2 archivos
+]777;notify;Command completed;#explicacion de la diferencia de los 2 archivos]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ La mo[K[K[K[K[K#La modificacion es la misma fecha en amnos a[K[K[K[K[Kbos archivos, yaq ue[K[K[K[K que no hubo cambio[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K#La fecha de la modificacion es la misma en ambos archivos, porque no se ha editado el  contenido
+]777;notify;Command completed;#La fecha de la modificacion es la misma en ambos archivos, porque no se ha editado el contenido]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #La fecha de acceso es distinta, ya que se pá[K[K[K[K[Kel archivo claves tiene la fecha de cuando se c reo el archivo ogi[K[Kriginl[Kal. Mientras que time se accedio a este par [Ka realizar la copia por ello es diferente
+]777;notify;Command completed;#La fecha de acceso es distinta, ya que el archivo claves tiene la fecha de cuando se creo el archivo original. Mientras que time se accedio a este para realizar la copia por ello es diferente]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #La fecha de cambio  [K[K[Ko es diferente, ya que en time[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ke
+]777;notify;Command completed;#La fecha de cambio es diferente]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;#La fecha de cambio es diferente]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ echo ""L"I"n"u"x"[1P"[1P"[1P"[1P"i"n"u"x"[C >> ./time [K
+]777;notify;Command completed;echo "Linux" >> ./time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;echo "Linux" >> ./time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #Verificando marcas de tiemop[Kp[K[K[Kmpo de time
+]777;notify;Command completed;#Verificando marcas de tiempo de time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ stat time
+  Fichero: «time»
+  Tamaño: 6         	Bloques: 8          Bloque E/S: 4096   fichero regular
+Dispositivo: fd00h/64768d	Nodo-i: 33782285    Enlaces: 1
+Acceso: (0664/-rw-rw-r--)  Uid: ( 1000/ gris_gs)   Gid: ( 1000/ gris_gs)
+Contexto: unconfined_u:object_r:user_home_t:s0
+      Acceso: 2022-07-11 00:06:08.905076217 -0500
+Modificación: 2022-07-11 10:03:04.486051886 -0500
+      Cambio: 2022-07-11 10:03:04.486051886 -0500
+    Creación: -
+]777;notify;Command completed;stat time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #Se cambian las marcas de tiempo de modificació[Kon y cambio
+]777;notify;Command completed;#Se cambian las marcas de tiempo de modificacion y cambio]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #L[KSe agrego el [K[Kl contenido del archivo y al mismo tiempo se guardo ese cambipo[K[Ko
+]777;notify;Command completed;#Se agrego el contenido del archivo y al mismo tiempo se guardo ese cambio]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;#Se agrego el contenido del archivo y al mismo tiempo se guardo ese cambio]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #Mostrar contenido del archivo
+]777;notify;Command completed;#Mostrar contenido del archivo]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ cat toi[K[Kime 
+Linux
+]777;notify;Command completed;cat time ]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;cat time ]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ stat [K[K[K[K[K#Que marca de tiempo se modifico
+]777;notify;Command completed;#Que marca de tiempo se modifico]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ stat time
+  Fichero: «time»
+  Tamaño: 6         	Bloques: 8          Bloque E/S: 4096   fichero regular
+Dispositivo: fd00h/64768d	Nodo-i: 33782285    Enlaces: 1
+Acceso: (0664/-rw-rw-r--)  Uid: ( 1000/ gris_gs)   Gid: ( 1000/ gris_gs)
+Contexto: unconfined_u:object_r:user_home_t:s0
+      Acceso: 2022-07-11 10:07:53.886065686 -0500
+Modificación: 2022-07-11 10:03:04.486051886 -0500
+      Cambio: 2022-07-11 10:03:04.486051886 -0500
+    Creación: -
+]777;notify;Command completed;stat time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ Se[K[K#Se modifico ek[Kl[K[Kla marca de acceso, ya que se tuvo que toma[K[K[K[Kacceder a este archivo pára[K[K[K[Ka[Kpara mostrar  el archivo
+]777;notify;Command completed;#Se modifico la marca de acceso, ya que se tuvo que acceder a este archivo para mostrar el archivo]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;#Se modifico la marca de acceso, ya que se tuvo que acceder a este archivo para mostrar el archivo]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ ls -lh time 
+-rw-rw-r--. 1 gris_gs gris_gs 6 jul 11 10:03 time
+]777;notify;Command completed;ls -lh time ]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ ls -lt time 
+-rw-rw-r--. 1 gris_gs gris_gs 6 jul 11 10:03 time
+]777;notify;Command completed;ls -lt time ]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ ls -acm time
+time
+]777;notify;Command completed;ls -acm time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #Cambiando permisos del archivo time
+]777;notify;Command completed;#Cambiando permisos del archivo time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ chmod 777 time
+]777;notify;Command completed;chmod 777 time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ ls time
+[0m[38;5;34mtime[0m
+]777;notify;Command completed;ls time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ ls time[C-timeltime time
+-rwxrwxrwx. 1 gris_gs gris_gs 6 jul 11 10:03 [0m[38;5;34mtime[0m
+]777;notify;Command completed;ls -l time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;ls -l time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ #Verificar marcas de tiempo
+]777;notify;Command completed;#Verificar marcas de tiempo]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ stat time
+  Fichero: «time»
+  Tamaño: 6         	Bloques: 8          Bloque E/S: 4096   fichero regular
+Dispositivo: fd00h/64768d	Nodo-i: 33782285    Enlaces: 1
+Acceso: (0777/-rwxrwxrwx)  Uid: ( 1000/ gris_gs)   Gid: ( 1000/ gris_gs)
+Contexto: unconfined_u:object_r:user_home_t:s0
+      Acceso: 2022-07-11 10:07:53.886065686 -0500
+Modificación: 2022-07-11 10:03:04.486051886 -0500
+      Cambio: 2022-07-11 10:11:30.925076035 -0500
+    Creación: -
+]777;notify;Command completed;stat time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ 
+]777;notify;Command completed;stat time]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ S[K#Se modifico la marca de tiempo cambio, ya que se modificaron los pér[K[K[Kpermisos de acceso
+]777;notify;Command completed;#Se modifico la marca de tiempo cambio, ya que se modificaron los permisos de acceso]0;gris_gs@localhost:~/IntroduccionLinux/times]7;file://localhost.localdomain/home/gris_gs/IntroduccionLinux/times[gris_gs@localhost times]$ exit
+exit
+
+Script terminado (lun 11 jul 2022 10:12:55 CDT
+)
